@@ -1,6 +1,6 @@
 ## ESM 206 Fall 2019 Lab Week 8
 
-- ANOVA
+- One-way ANOVA
 - post-hoc Tukey's
 - chi-square
 - Graph with mean & error bars
